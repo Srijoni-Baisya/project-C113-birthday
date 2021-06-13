@@ -1,0 +1,15 @@
+body{
+    background-image: url("balloons.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: 'Libre Baskerville', serif;
+}
+h3{
+    border-radius: 10px;
+    width: 30%;
+    padding: 10px;
+}
+canvas{
+    background-color: #f0f8ff;
+    border: 10px ridge;
+}
